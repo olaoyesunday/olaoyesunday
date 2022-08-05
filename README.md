@@ -75,4 +75,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Why People Love React?](https://dev.to/olaoyesunday/why-people-love-react-2gel)
 <!-- BLOG-POST-LIST:END -->
